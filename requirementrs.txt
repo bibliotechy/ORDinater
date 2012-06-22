@@ -1,0 +1,6 @@
+Django==1.4
+django-social-auth==0.7.0
+httplib2==0.7.4
+oauth2==1.5.211
+python-openid==2.2.5
+wsgiref==0.1.2
