@@ -2,6 +2,5 @@ lib
 bin
 include
 local
-.git
 
 *.pyc
